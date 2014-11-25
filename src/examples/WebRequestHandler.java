@@ -13,7 +13,7 @@ import org.eclipse.jetty.server.handler.AbstractHandler;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import reloaded.Reloadable;
+import reloadables.Reloadable;
 
 public class WebRequestHandler extends AbstractHandler {
 

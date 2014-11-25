@@ -1,4 +1,4 @@
-package reloaded;
+package reloadables;
 
 import java.io.File;
 import java.lang.reflect.Method;
@@ -8,7 +8,7 @@ import java.net.URLClassLoader;
 import java.util.Date;
 import java.util.List;
 
-import reloaded.util.Files;
+import reloadables.util.Files;
 
 import com.google.common.collect.Lists;
 
